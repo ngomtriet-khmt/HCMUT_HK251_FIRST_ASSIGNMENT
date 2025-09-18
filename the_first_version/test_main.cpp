@@ -1,3 +1,5 @@
+// Compile command: g++ -std=c++17 -Wall -Wextra -O2 test_main.cpp -o test_main && ./test_main
+
 #define TESTING  // Enable testing mode for friend class access
 
 #include <iostream>
