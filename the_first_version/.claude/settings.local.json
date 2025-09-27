@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(g++:*)",
+      "Bash(./arraylist_test)",
+      "Bash(./point_test)",
+      "Bash(./run_point_test)",
+      "Bash(./singlylinkedlist_test)",
+      "Bash(./vectorstore_test)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
